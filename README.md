@@ -14,6 +14,7 @@ Welcome to the Microservices Architecture Guide. This repository is a collective
 - [Deployment and Operations](Deployment.md)
 - [Challenges and Solutions](Challenges.md)
 - [Additional Resources](Resources.md)
+- [Decomposition Strategies](Decompose.md)
 
 Each section is documented in its own markdown file, linked for ease of navigation. The guide is a living document, and contributions are welcome to expand on the topics and keep the guide up-to-date with the latest in microservices architecture.
 
